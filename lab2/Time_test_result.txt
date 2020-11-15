@@ -1,0 +1,12 @@
+Result for QuickSort: 
+0 0 0 0 0 0 0 0 0 0 for 10 elements.  Average: 0
+0 0 0 0 0 0 0 0 0 0 for 100 elements.  Average: 0
+0 0 0 0 1 0 0 1 0 0 for 1000 elements.  Average: 0.2
+1 1 1 1 2 2 1 1 1 1 for 10000 elements.  Average: 1.2
+19 20 19 20 20 19 19 19 19 19 for 100000 elements.  Average: 19.3
+Result for BubbleSort: 
+0 0 0 0 0 0 0 0 0 0 for 10 elements.  Average: 0
+1 0 0 0 0 0 0 0 0 0 for 100 elements.  Average: 0.1
+6 6 6 5 6 6 6 6 6 6 for 1000 elements.  Average: 5.9
+639 632 637 642 639 652 635 628 641 629 for 10000 elements.  Average: 637.4
+64036 64211 64071 69888 78631 75716 71281 69650 69209 65914 for 100000 elements.  Average: 69260.7
